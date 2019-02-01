@@ -5,3 +5,5 @@ Creating a new branch is quick and simple!
 A dev branch
 
 add 1
+
+add 2
